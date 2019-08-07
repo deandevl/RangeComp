@@ -1,0 +1,16 @@
+{
+  "name": "rangecomp",
+  "version": "1.0.0",
+  "description": "A Vue.js (>= 2.5) web component that wraps around an html input of type 'range' with label and styling options. ",
+  "main": "RangeComp.vue",
+  "repository": "git+https://github.com/deandevl/RangeComp.git",
+  "keywords": [
+    "Vue.js",
+    "RangeComp"
+  ],
+  "author": "'Rick <deanr3@bardstown.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.5.9"
+  }
+}
